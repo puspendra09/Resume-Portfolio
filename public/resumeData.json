@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Pushpendra Singh",
+    "occupation": "Full Stack Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I have more than 4  years of experience as a Full Stack Developer, I possess a robust skill set in designing, developing, and maintaining web applications. Proficient in front-end and back-end technologies, I am dedicated to creating efficient and user-friendly digital experiences. Skilled at collaborating with cross-functional teams to deliver top-notch software solutions.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "puspendra09singh@gmail.com",
+    "phone": "+91 9761690031",
+    "address": {
+      "street": "Sector 121",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zip": "201301"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1O30miWu1JMrDQ_8rAOodqR_G4cI4A_Ns/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pushpendra-singh-140106178",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/puspendra09",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Shree Siddhi Vinayak Institute of Technology, Bareilly (UP)",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2020",
+        "description": "Graduated with First Class"
+      },
+      {
+        "school": "Maharishi Vidhya Mandir, Budaun (UP)",
+        "degree": "Intermediate",
+        "graduated": "June 2016",
+        "description": ""
+      },
+      {
+        "school": "Maharishi Vidhya Mandir, Budaun (UP)",
+        "degree": "High School",
+        "graduated": "June 2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Front End Developer",
+        "years": "February 2019 - Present",
+        "description": "<li>Developed and maintained web applications using React</li><li>Collaborate with product and design to create user-friendly   and performant web application.</li><li>Collaborated with product and design teams to create user-friendly and high-performing web applications.</li><li>Worked closely with the back-end team to integrate applications with APIs.</li> <li> Conducted code reviews to validate structures, assess security, and ensure compatibility with various browsers, devices, and operating systems.</li>"
+      },
+      {
+        "company": "Habilelabs Pvt Ltd",
+        "title": "Front End Developer",
+        "years": "september 2020 - January 2023",
+        "description": "<li>Designing and developing websites and platforms.</li><li>Collaborating with design teams to ensure intuitive user interactions.</li><li>Providing back-end functionality for smooth operation across different devices and browsers.</li><li>Developing APIs and ensuring software responsiveness and efficiency.</li> <li>Building features with mobile-responsive design.</li><li>Building well-functioning databases and applications.</li> <li>Reviewed code to validate structures, assess security and verify browser, device and operating system compatibility</li>"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "NextJs",
+        "level": "90%"
+      },
+      {
+        "name": "Redux",
+        "level": "100%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "Strapi",
+        "level": "90%"
+      },
+      {
+        "name": "Material-UI",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "AWS Cloud",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Hibernate",
+        "level": "85%"
+      },
+      {
+        "name": "JSP",
+        "level": "99%"
+      },
+      {
+        "name": "Jquery",
+        "level": "95%"
+      },
+      {
+        "name": "MYSQL",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "90%"
+      },
+      {
+        "name": "Postgress",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": []
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have worked with many professionals throughout my journey. His work ethics are pristine, and he is easily adjustable to a given situation. His ability to go out of his way to help others has made him stand out.",
+        "user": "Lily Aguero"
+      },
+      {
+        "text": "Very good technical skills. Easily adjustable with new technology! ",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
